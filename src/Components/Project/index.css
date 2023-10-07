@@ -1,0 +1,32 @@
+.app-container {
+  background-color: #f1f5f9;
+  width: 100vw;
+}
+.nav-bar {
+  width: 100vw;
+  height: 90px;
+  background-color: #cbd5e1;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.logo {
+  height: 100%;
+  margin-left: 40px;
+}
+.selectItem {
+  width: 550px;
+  height: 40px;
+  margin: 40px;
+  border-radius: 6px;
+  outline: none;
+}
+ul {
+  list-style: none;
+}
+.listItems {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-left: 40px;
+  background-color: #f1f5f9;
+}
